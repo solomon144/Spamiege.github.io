@@ -1,11 +1,11 @@
 # Enhancement Narratives
 
 ## Software Engineering
-[Download Narrative](Software_Engineering_Narrative.pdf)
+[Download Narrative](CS - 499 - Software Engineering Narrative.docx)
 
 ## Algorithms and Data Structures
-[Download Narrative](Algorithms_Narrative.pdf)
+[Download Narrative](CS - 499 - Algorithms Narrative.docx)
 
 ## Databases
-[Download Narrative](Database_Narrative.pdf)
+[Download Narrative](CS - 499 - Database Narrative.docx)
 
